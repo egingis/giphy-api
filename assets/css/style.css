@@ -1,0 +1,21 @@
+img {
+    height: 150px;
+    width: 150px;
+}
+
+.btn {
+    margin: 3px;
+    background-color: #999999;
+    border-color: #fff;
+}
+
+.gifDiv {
+    display: inline-block;
+    margin: auto;
+}
+
+.container {
+    background-color: #fff;
+    opacity: 0.8;
+    padding: 20px;
+}
